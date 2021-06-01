@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/site-react/static/css/main.9d5b29c0.chunk.css",
+    "main.js": "/site-react/static/js/main.5e861178.chunk.js",
+    "main.js.map": "/site-react/static/js/main.5e861178.chunk.js.map",
+    "runtime-main.js": "/site-react/static/js/runtime-main.bd78c1d9.js",
+    "runtime-main.js.map": "/site-react/static/js/runtime-main.bd78c1d9.js.map",
+    "static/js/2.5fc5b2e5.chunk.js": "/site-react/static/js/2.5fc5b2e5.chunk.js",
+    "static/js/2.5fc5b2e5.chunk.js.map": "/site-react/static/js/2.5fc5b2e5.chunk.js.map",
+    "static/js/3.36d204ce.chunk.js": "/site-react/static/js/3.36d204ce.chunk.js",
+    "static/js/3.36d204ce.chunk.js.map": "/site-react/static/js/3.36d204ce.chunk.js.map",
+    "index.html": "/site-react/index.html",
+    "static/css/main.9d5b29c0.chunk.css.map": "/site-react/static/css/main.9d5b29c0.chunk.css.map",
+    "static/js/2.5fc5b2e5.chunk.js.LICENSE.txt": "/site-react/static/js/2.5fc5b2e5.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/site-react/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bd78c1d9.js",
+    "static/js/2.5fc5b2e5.chunk.js",
+    "static/css/main.9d5b29c0.chunk.css",
+    "static/js/main.5e861178.chunk.js"
+  ]
+}
