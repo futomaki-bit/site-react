@@ -2,4 +2,4 @@
 
 Please ignore
 
-[Link](https://futomakiyoin.github.io/site-react/index.html)
+[Link](https://futomakiyoin.github.io/site-react/)
