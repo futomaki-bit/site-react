@@ -1,0 +1,14 @@
+/* Parent/Child */
+.grandparent {
+  max-width: 70rem;
+  margin: auto;
+}
+
+.parent {
+  padding: 0 2rem;
+}
+
+.tallchild {
+  height: 20rem;
+}
+/*# sourceMappingURL=parents.css.map */

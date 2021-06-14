@@ -1,0 +1,14 @@
+// import partial scss
+@import "_var.scss";
+
+/* LINKS */
+
+// No decoration/underline
+a {
+  text-decoration: none;
+}
+
+// Subtle hover color
+a:hover {
+  color: $gray;
+}

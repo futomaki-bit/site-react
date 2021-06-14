@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AACA,AAAA,WAAW,CAAC;EACV,aAAa,EAAE,GAAG;EAClB,MAAM,EAAE,IAAI;CACb",
+    "sources": [
+        "../scss/profilepic.scss"
+    ],
+    "names": [],
+    "file": "profilepic.css"
+}

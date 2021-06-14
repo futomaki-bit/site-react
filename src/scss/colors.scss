@@ -1,0 +1,99 @@
+// import partial scss variables
+@import "_var.scss";
+
+// Dark Mode
+@media (prefers-color-scheme: dark) {
+  body {
+    background-color: $black;
+    color: $white;
+
+    a {
+      color: $white;
+    }
+  }
+
+  .pinktheme {
+    background-color: $monopink;
+  }
+
+  .bluetheme {
+    background-color: $monoblue;
+  }
+
+  .greentheme {
+    background-color: $monogreen;
+  }
+
+  .tealtheme {
+    background-color: $monoteal;
+  }
+
+  .browntheme {
+    background-color: $monobrown;
+  }
+
+  .coaltheme {
+    background-color: $monocoal;
+  }
+
+  // for programming section
+  #programming {
+    background: url("../img/programmingdark.jpg");
+    background-position: center center;
+    background-size: cover;
+  }
+
+  .cover {
+    background: linear-gradient(rgba(24, 24, 24, 0.8), rgba(48, 48, 48, 0.5)),
+      url("../img/jumbotrondark.jpg");
+  }
+}
+
+// Light Mode
+@media (prefers-color-scheme: light) {
+  body {
+    background-color: $light;
+    color: $black;
+
+    a {
+      color: $light;
+    }
+  }
+
+  .pinktheme {
+    background-color: $pink;
+  }
+
+  .bluetheme {
+    background-color: $blue;
+  }
+
+  .greentheme {
+    background-color: $green;
+  }
+
+  .tealtheme {
+    background-color: $teal;
+  }
+
+  .browntheme {
+    background-color: $brown;
+  }
+
+  // for programming section
+  #programming {
+    background: url("../img/programminglight.jpg");
+    background-position: center center;
+    background-size: cover;
+  }
+
+  .coaltheme {
+    background-color: $white;
+  }
+
+  .cover {
+    background: linear-gradient(rgba(200, 200, 200, 0.7),
+        rgba(150, 150, 150, 0.1)),
+      url("../img/jumbotron.jpg");
+  }
+}

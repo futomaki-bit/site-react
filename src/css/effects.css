@@ -1,0 +1,45 @@
+/* EFFECTS */
+/* Fade in */
+.fade-in {
+  opacity: 1;
+  -webkit-animation-name: fadeInOpacity;
+          animation-name: fadeInOpacity;
+  -webkit-animation-timing-function: ease-in;
+          animation-timing-function: ease-in;
+  -webkit-animation-duration: 1s;
+          animation-duration: 1s;
+}
+
+@-webkit-keyframes fadeInOpacity {
+  0% {
+    opacity: 0;
+  }
+  100% {
+    opacity: 1;
+  }
+}
+
+@keyframes fadeInOpacity {
+  0% {
+    opacity: 0;
+  }
+  100% {
+    opacity: 1;
+  }
+}
+
+/* Smooth scrolling */
+html {
+  scroll-behavior: smooth;
+}
+
+/* Highlight color */
+::-moz-selection {
+  background: #FFFF0077;
+  /* WebKit/Blink Browsers */
+}
+::selection {
+  background: #FFFF0077;
+  /* WebKit/Blink Browsers */
+}
+/*# sourceMappingURL=effects.css.map */

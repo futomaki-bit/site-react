@@ -1,23 +1,24 @@
-import logo from './logo.svg';
-import './App.css';
+import './css/App.css';
+import about from './About.js';
+import cover from './Cover.js';
+import programming from './Programming.js'
+import otherpage from './Otherpage.js'
+import smartphone from './Smartphone.js'
+import food from './Food.js'
+import github from './Github.js'
+import notes from './Notes.js'
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+    <div class="grandparent fade-in scrollable">
+      {cover}
+      {about}
+      {programming}
+      {otherpage}
+      {smartphone}
+      {food}
+      {github}
+      {notes}
     </div>
   );
 }

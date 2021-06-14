@@ -1,0 +1,10 @@
+{
+    "version": 3,
+    "mappings": "AAGA,WAAW;AAGX,AAAA,CAAC,CAAC;EACA,eAAe,EAAE,IAAI;CACtB;;AAGD,AAAA,CAAC,AAAA,MAAM,CAAC;EACN,KAAK,ECPA,IAAI;CDQV",
+    "sources": [
+        "../scss/links.scss",
+        "../scss/_var.scss"
+    ],
+    "names": [],
+    "file": "links.css"
+}

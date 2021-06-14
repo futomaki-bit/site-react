@@ -1,0 +1,24 @@
+body {
+  font-family: "Inter", sans-serif;
+}
+
+.cursivefont {
+  font-family: "Dancing Script", cursive;
+}
+
+.condensedfont {
+  font-family: "Open Sans Condensed", sans-serif;
+}
+
+.textfont {
+  font-family: "Inter", sans-serif;
+}
+
+.monofont {
+  font-family: "Courier Prime", monospace;
+}
+
+.seriffont {
+  font-family: "Newsreader", serif;
+}
+/*# sourceMappingURL=fonts.css.map */

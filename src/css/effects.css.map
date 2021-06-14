@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AAAA,aAAa;AACb,aAAa;AACb,AAAA,QAAQ,CAAC;EACR,OAAO,EAAE,CAAC;EACV,cAAc,EAAE,aAAa;EAC7B,yBAAyB,EAAE,OAAO;EAClC,kBAAkB,EAAE,EAAE;CACtB;;AAED,UAAU,CAAV,aAAU;EACT,EAAE;IACD,OAAO,EAAE,CAAC;;EAGX,IAAI;IACH,OAAO,EAAE,CAAC;;;;AAIZ,sBAAsB;AACtB,AAAA,IAAI,CAAC;EACJ,eAAe,EAAE,MAAM;CACvB;;AAED,qBAAqB;AACrB,AAAA,WAAW,CAAC;EACX,UAAU,EAAE,SAAS;EACrB,2BAA2B;CAC3B",
+    "sources": [
+        "../scss/effects.scss"
+    ],
+    "names": [],
+    "file": "effects.css"
+}

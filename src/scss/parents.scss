@@ -1,0 +1,16 @@
+/* Parent/Child */
+.grandparent {
+  max-width: 70rem;
+  margin: auto;
+}
+
+.parent {
+  padding: 0 2rem;
+}
+
+// tallchild when the content is too high
+.tallchild {
+  height: 20rem;
+}
+
+// child has nothing yet

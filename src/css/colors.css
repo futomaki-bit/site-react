@@ -1,0 +1,74 @@
+@media (prefers-color-scheme: dark) {
+  body {
+    background-color: black;
+    color: white;
+  }
+  body a {
+    color: white;
+  }
+  .pinktheme {
+    background-color: #272730;
+  }
+  .bluetheme {
+    background-color: #2f2f35;
+  }
+  .greentheme {
+    background-color: #4e4e52;
+  }
+  .tealtheme {
+    background-color: #606063;
+  }
+  .browntheme {
+    background-color: #1b1b1f;
+  }
+  .coaltheme {
+    background-color: #282c35;
+  }
+  #programming {
+    background: url("../img/programmingdark.jpg");
+    background-position: center center;
+    background-size: cover;
+  }
+  .cover {
+    background: -webkit-gradient(linear, left top, left bottom, from(rgba(24, 24, 24, 0.8)), to(rgba(48, 48, 48, 0.5))), url("../img/jumbotrondark.jpg");
+    background: linear-gradient(rgba(24, 24, 24, 0.8), rgba(48, 48, 48, 0.5)), url("../img/jumbotrondark.jpg");
+  }
+}
+
+@media (prefers-color-scheme: light) {
+  body {
+    background-color: #f1f3f4;
+    color: black;
+  }
+  body a {
+    color: #f1f3f4;
+  }
+  .pinktheme {
+    background-color: #fce4ec;
+  }
+  .bluetheme {
+    background-color: #e0f7fa;
+  }
+  .greentheme {
+    background-color: #dcedc8;
+  }
+  .tealtheme {
+    background-color: #b2ebf2;
+  }
+  .browntheme {
+    background-color: #efebe9;
+  }
+  #programming {
+    background: url("../img/programminglight.jpg");
+    background-position: center center;
+    background-size: cover;
+  }
+  .coaltheme {
+    background-color: white;
+  }
+  .cover {
+    background: -webkit-gradient(linear, left top, left bottom, from(rgba(200, 200, 200, 0.7)), to(rgba(150, 150, 150, 0.1))), url("../img/jumbotron.jpg");
+    background: linear-gradient(rgba(200, 200, 200, 0.7), rgba(150, 150, 150, 0.1)), url("../img/jumbotron.jpg");
+  }
+}
+/*# sourceMappingURL=colors.css.map */

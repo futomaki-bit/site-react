@@ -1,0 +1,29 @@
+/* EFFECTS */
+/* Fade in */
+.fade-in {
+	opacity: 1;
+	animation-name: fadeInOpacity;
+	animation-timing-function: ease-in;
+	animation-duration: 1s;
+}
+
+@keyframes fadeInOpacity {
+	0% {
+		opacity: 0;
+	}
+
+	100% {
+		opacity: 1;
+	}
+}
+
+/* Smooth scrolling */
+html {
+	scroll-behavior: smooth;
+}
+
+/* Highlight color */
+::selection {
+	background: #FFFF0077;
+	/* WebKit/Blink Browsers */
+}
