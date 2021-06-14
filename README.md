@@ -1,5 +1,8 @@
 # Testing React App on GitHub Pages
 
-Please ignore
+Please ignore.
 
-[Link](https://futomakiyoin.github.io/site-react/)
+
+Resource : [**Deploying a React App to GitHub Pages**](https://github.com/gitname/react-gh-pages)
+
+[My Test](https://futomakiyoin.github.io/site-react/)
