@@ -2,7 +2,7 @@ const otherpage = (<div class="coaltheme parent">
     <div class="container pt-5">
         <div class="row">
             <div class="column col-sm-6 child">
-                <h3><i class="fas fa-question"></i> Other... </h3>
+                <h3><i class="fas fa-question"></i><span> </span>Other... </h3>
                 <br />
             </div>
             <div class="column col-sm-6 tallchild">
