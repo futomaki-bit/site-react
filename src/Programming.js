@@ -1,3 +1,19 @@
+import React from 'react';
+// frontend
+import html5 from './img/html5.svg';
+import css3 from './img/css3.svg';
+import js from './img/js.svg';
+// backend
+import cpp from './img/c++.svg';
+import cmm from './img/c--.svg';
+import java from './img/java.svg';
+import python from './img/python.svg';
+// db
+import mysql from './img/mysql.svg';
+// ide
+import vscode from './img/vscode.svg';
+
+
 const programming = (<div id="programming" class="coaltheme parent">
     <div class="container pt-5">
         <div class="row">
@@ -11,26 +27,26 @@ const programming = (<div id="programming" class="coaltheme parent">
                     <table>
                         <tbody>
                             <tr>
-                                <td scope="row">Frontend</td>
-                                <td><img class="programicon" src="img/html5.svg" alt="html"></img></td>
-                                <td><img class="programicon" src="img/css3.svg" alt="css"></img></td>
-                                <td><img class="programicon" src="img/js.svg" alt="javascript"></img></td>
+                                <th scope="row">Frontend</th>
+                                <td><img class="programicon" src={html5} alt="html" /></td>
+                                <td><img class="programicon" src={css3} alt="css" /></td>
+                                <td><img class="programicon" src={js} alt="javascript" /></td>
                             </tr>
                             <tr>
-                                <td scope="row">Backend</td>
-                                <td><img class="programicon" src="img/c++.svg" alt="c++"></img></td>
-                                <td><img class="programicon" src="img/c--.svg" alt="c#"></img></td>
-                                <td><img class="programicon" src="img/java.svg" alt="java"></img></td>
-                                <td><img class="programicon" src="img/python.svg" alt="python"></img></td>
+                                <th scope="row">Backend</th>
+                                <td><img class="programicon" src={cpp} alt="c++" /></td>
+                                <td><img class="programicon" src={cmm} alt="c#" /></td>
+                                <td><img class="programicon" src={java} alt="java" /></td>
+                                <td><img class="programicon" src={python} alt="python" /></td>
                             </tr>
                             <tr>
-                                <td scope="row">Database</td>
-                                <td><img class="programicon" src="img/mysql.svg" alt="mysql"></img></td>
+                                <th scope="row">Database</th>
+                                <td><img class="programicon" src={mysql} alt="mysql" /></td>
                             </tr>
                             <tr>
-                                <td scope="row">IDE</td>
-                                <td><img class="programicon" src="img/vscode.svg"
-                                    alt="visual studio code"></img>
+                                <th scope="row">IDE</th>
+                                <td><img class="programicon" src={vscode}
+                                    alt="visual studio code" />
                                 </td>
                             </tr>
                         </tbody>
