@@ -5,7 +5,7 @@ const github = (
                 <div class="column col-sm-12 child">
                     <a href="https://github.com/futomakiyoin">
                         <h3>
-                            <i class="fab fa-github"></i>
+                            <i class="fab fa-github"></i><span> </span>
                             GitHub
                         </h3>
                     </a>
@@ -13,8 +13,8 @@ const github = (
                 <div class="column col-sm-12 child">
                     <div class="text-center pt-3">
                         <a href="https://github.com/futomakiyoin">
-                            <img src="https://avatars.githubusercontent.com/u/72528988?v=4" alt="Profile Picture"
-                                class="profilepic"></img>
+                            <img src="https://avatars.githubusercontent.com/u/72528988?v=4" alt="futomakiyoin"
+                                class="profilepic" />
                         </a>
                         <div>
                             <h2 class="mt-4">futomakiyoin</h2>
