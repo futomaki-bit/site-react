@@ -4,7 +4,7 @@
 **[My Github Website](https://futomakiyoin.github.io/site-react/)**
 
 **Preview:**\
-![Preview](preview.png)
+![Preview](/src/img/preview.png)
 
 Resource : [**Deploying a React App to GitHub Pages**](https://github.com/gitname/react-gh-pages)
 
