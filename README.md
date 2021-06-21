@@ -1,10 +1,18 @@
-# Testing React App on GitHub Pages
+# site-react
 
-Please ignore. It is [here](https://futomakiyoin.github.io/site-react/)
+**A website to introduce myself a little**\
+**[My Github Website](https://futomakiyoin.github.io/site-react/)**
+
+**Preview:**\
+![Preview](preview.png)
 
 Resource : [**Deploying a React App to GitHub Pages**](https://github.com/gitname/react-gh-pages)
 
-### Goal: ###
+**Goal:**
+- [x] To learn about GitHub Pages 
+- [x] Get Dark Mode
 - [x] Deploy react app on GitHub Pages
-### To Do: ###
+- [ ] Put more content
+
+**To Do:**
 - Change const to component
