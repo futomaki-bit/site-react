@@ -2,7 +2,6 @@ import './css/App.css';
 import about from './About.js';
 import cover from './Cover.js';
 import programming from './Programming.js'
-import otherpage from './Otherpage.js'
 import smartphone from './Smartphone.js'
 import food from './Food.js'
 import github from './Github.js'
@@ -14,7 +13,6 @@ function App() {
       {cover}
       {about}
       {programming}
-      {otherpage}
       {smartphone}
       {food}
       {github}
