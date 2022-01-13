@@ -1,7 +1,7 @@
 # site-react
 
 **A website to introduce myself a little**\
-**[My Github Website](https://futomakiyoin.github.io/site-react/)**
+**[My Github Website](https://futomaki-bit.github.io/site-react/)**
 
 **Preview:**\
 ![Preview](/src/img/preview.png)
