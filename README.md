@@ -3,9 +3,6 @@
 **A website to introduce myself a little**\
 **[My Github Website](https://futomaki-bit.github.io/site-react/)**
 
-**Preview:**\
-![Preview](/src/img/preview.png)
-
 Resource : [**Deploying a React App to GitHub Pages**](https://github.com/gitname/react-gh-pages)
 
 **Goal:**
