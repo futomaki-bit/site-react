@@ -5,7 +5,6 @@ import css3 from './img/css3.svg';
 import js from './img/js.svg';
 // backend
 import cpp from './img/c++.svg';
-import cmm from './img/c--.svg';
 import java from './img/java.svg';
 import python from './img/python.svg';
 // db
@@ -35,13 +34,8 @@ const programming = (<div id="programming" class="coaltheme parent">
                             <tr>
                                 <th scope="row">Backend</th>
                                 <td><img class="programicon" src={cpp} alt="c++" /></td>
-                                <td><img class="programicon" src={cmm} alt="c#" /></td>
                                 <td><img class="programicon" src={java} alt="java" /></td>
                                 <td><img class="programicon" src={python} alt="python" /></td>
-                            </tr>
-                            <tr>
-                                <th scope="row">Database</th>
-                                <td><img class="programicon" src={mysql} alt="mysql" /></td>
                             </tr>
                             <tr>
                                 <th scope="row">IDE</th>
