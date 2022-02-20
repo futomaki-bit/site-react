@@ -5,7 +5,7 @@
 
 Resource : [**Deploying a React App to GitHub Pages**](https://github.com/gitname/react-gh-pages)
 
-**Goal:**
+**Goals:**
 - [x] To learn about GitHub Pages 
 - [x] Get Dark Mode
 - [x] Deploy react app on GitHub Pages
