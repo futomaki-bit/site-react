@@ -4,10 +4,11 @@ const smartphone = (
             <div class="row">
                 <div class="column col-sm-6 child ">
                     <h3><i class="fas fa-mobile"></i> Smartphone </h3>
-                    <p>iPhone</p>
+                    <p><s>iPhone</s> Google Pixel</p>
                 </div>
                 <div class="column col-sm-6 tallchild ">
-                    <h4>Learning iOS now.</h4>
+                    <p><s>Learning iOS now.</s></p>
+                    <h4>Back to Android.</h4>
                     <br />
                     <div class="seriffont">
                         <h5>"Anyone who stops learning is old, whether at twenty or eighty."</h5>
