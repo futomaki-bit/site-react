@@ -21,7 +21,7 @@ const programming = (<div id="programming" class="coaltheme parent">
                 <br />
             </div>
             <div class="column col-sm-6 tallchild">
-                <h3 class="monofont"> Backend Dev. Mainly.</h3>
+                <h3 class="monofont"> What I use mostly.</h3>
                 <div class="text-left">
                     <table>
                         <tbody>
